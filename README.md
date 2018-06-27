@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/word_cloud](http://gitlab.com/paul-nechifor/word_cloud).
+
+Old readme:
+
 word_cloud
 ==========
 
